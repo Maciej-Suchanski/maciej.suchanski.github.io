@@ -1,0 +1,26 @@
+.form{
+    background-color: rgb(136, 247, 255);
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+div{
+    margin-bottom: 20px;
+}
+
+input[type="text"], input[type="email"], textarea{
+    width: 200px;
+}
+
+textarea{
+    max-width: 290px;
+    height: 50px;
+    max-height: 100px;
+}
+
+button{
+    padding: 10px;
+}
